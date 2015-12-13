@@ -1,0 +1,48 @@
+
+pack.png
+size: 4096,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2ScreenBackground
+  rotate: false
+  xy: 2, 141
+  size: 1280, 768
+  orig: 1280, 768
+  offset: 0, 0
+  index: -1
+BlueSky
+  rotate: false
+  xy: 2, 2
+  size: 170, 42
+  orig: 170, 42
+  offset: 0, 0
+  index: -1
+Button
+  rotate: false
+  xy: 2, 46
+  size: 319, 93
+  orig: 319, 93
+  offset: 0, 0
+  index: -1
+Red
+  rotate: false
+  xy: 2566, 736
+  size: 173, 173
+  orig: 173, 173
+  offset: 0, 0
+  index: -1
+blackBackground
+  rotate: false
+  xy: 1284, 141
+  size: 1280, 768
+  orig: 1280, 768
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 323, 97
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
