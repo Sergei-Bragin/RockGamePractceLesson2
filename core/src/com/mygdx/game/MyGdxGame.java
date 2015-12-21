@@ -24,6 +24,9 @@ public class MyGdxGame extends Game {
 		A.y_pit=(float)(Gdx.graphics.getHeight()* A.x_orig)/Gdx.graphics.getWidth();
 		if(A.y_pit<= A.y_orig) A.y_pit= A.y_orig;
 
+
+		// Блин не комитит
+
 		sh = new SceneLoader();
 		setScreen(new Start(this));
 
